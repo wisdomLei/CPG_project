@@ -4,10 +4,10 @@ Control a multiple-joints robot fish by STM32
 ----
 
 ##项目信息
-控制器：FSTM32F103c8t6
-语言：C语言
-固件库版本：STM32F10x_StdPeriph_Lib_V3.5.0
-软件：Keil5
++控制器：FSTM32F103c8t6
++语言：C语言
++固件库版本：STM32F10x_StdPeriph_Lib_V3.5.0
++软件：Keil5
 **注意：固件库不上传至此项目**
 
 ##本项目所用鱼体参数：
